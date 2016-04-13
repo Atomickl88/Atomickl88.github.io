@@ -1,0 +1,28 @@
+body, html{
+	height: 100%;
+	width: 100%;
+}
+
+body{
+		font-family: Bauhaus 93;
+		background-image: Title.jpg.jpg;
+		background-repeat: no-repeat;
+		background-position: center center;
+		background-attachment: fixed;
+		background-size: cover;
+		background-color: #8A8E91;
+		margin: 0;
+		display: table;
+
+}
+
+.container{
+	display: table-cell;
+	text-align: center;
+	vertical-align: middle;
+}
+
+a:active, a:hover, a:visited, a:link {
+	text-decoration: none;
+	color: #B8D4E3;
+}
